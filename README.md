@@ -29,5 +29,4 @@ Ekip çalışmasına yatkın  deneyime saygili bir geliştiriciyim ve projelerde
 - **LinkedIn:** [linkedin.com/in/ornekprofil](https://www.linkedin.com/in/mustafa-kara-5275b6200/overlay/contact-info/)
 - **GitHub:** [github.com/mkara80](https://github.com/mkara80)  
 
-## ✨ İlginç Bir Gerçek
-Yazılım dünyasına olan ilgim, karmaş
+
