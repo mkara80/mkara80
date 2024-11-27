@@ -25,8 +25,8 @@
 Ekip çalışmasına yatkın  deneyime saygili bir geliştiriciyim ve projelerde iş birliği yapmayı seviyorum. Birlikte çalışarak harika işler başarabileceğimize inanıyorum. 🌟
 
 ## 📫 Bana Ulaşın!
-- **E-posta:** [ornekmail@gmail.com](mailto:mustfakaraguz@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/ornekprofil](https://www.linkedin.com/in/mustafa-kara-5275b6200/overlay/contact-info/)
-- **GitHub:** [github.com/mkara80](https://github.com/mkara80)  
+- **E-posta:** [mustfakaraguz@gmail.com]  
+- **LinkedIn:** [https://www.linkedin.com/in/mustafa-kara-5275b6200/overlay/contact-info/]
+- **GitHub:** [[https://github.com/mkara80]
 
 
